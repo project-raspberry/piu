@@ -1,7 +1,6 @@
 cd /bin
-mv git github
-mv ls list
-mv cp copy
-mv mkdir create-folder
-mv mv rename
-sudo reboot
+cp git github
+cp ls list
+cp mkdir create-folder
+cp mv rename
+cp cp copy
