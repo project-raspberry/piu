@@ -1,7 +1,6 @@
 cd /bin
-rename github git
-rename list ls
-rename copy cp
-rename create-folder mkdir
-rename rename mv
-sudo reboot
+rm -f github
+rm -f list
+rm -f copy
+rm -f create-folder
+rm -f rename mv
