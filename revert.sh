@@ -1,7 +1,7 @@
 cd /bin
-move github git
-move list ls
-move copy cp
-move create-folder mkdir
-move move mv
+rename github git
+rename list ls
+rename copy cp
+rename create-folder mkdir
+rename rename mv
 sudo reboot
