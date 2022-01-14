@@ -1,4 +1,4 @@
-cd /bin
+cd /bin/
 rm -f github
 rm -f list
 rm -f copy
